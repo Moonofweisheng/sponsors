@@ -25,4 +25,4 @@ jobs:
                   access-key-id: ${{ secrets.OSS_KEY }} 
                   access-key-secret: ${{ secrets.OSS_SECRET }}
             - name: cp files to aliyun
-              run: ossutil cp -r ./sponsors oss://historysoa/sponsors 
+              run: ossutil cp -r ../sponsors oss://historysoa/sponsors 
