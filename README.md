@@ -1,7 +1,5 @@
-<p align="center">
-    <span style="font-size:48px">🥂</span>
-</p>
-<h1 align="center">Wot Design Uni Sponsors仓库</h1>
+# <p align="center"><span>🥂</span></p><p align="center">Wot Design Uni Sponsors仓库</p>
+
 
 <p align="center">🤑 当你希望捐赠上榜、成为我们的友情链接或者想要赞助位宣传，可以在本仓库联系我们</p>
 
