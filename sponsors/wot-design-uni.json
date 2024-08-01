@@ -242,6 +242,10 @@
             "name":"朋友超先生",
             "link":"-",
             "message":"祝越来越来好！"
+        },{
+            "name":"Lan_zhijiang",
+            "link":"https://blog.hadream.ltd",
+            "message":"Uniapp组件库中设计优秀、UI美观的组件库，值得长期使用与投入"
         }
     ]
 }
