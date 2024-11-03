@@ -5,7 +5,7 @@
 
 
 ## 捐赠上榜
-如果是对[Wot Design Uni](https://wot-design-uni.cn)的捐赠，可以在捐赠后发送邮件到1780903673@qq.com或者通过github、微信群等社交平台告知要展示的捐赠者名称、留言、链接 (链接可以是您的博客、github、个人网站、公司产品等)，还有你的Github用户名。
+如果是对[Wot Design Uni](https://wot-design-uni.cn)的捐赠，可以在捐赠后发送邮件到1780903673@qq.com或者通过github、微信群等社交平台告知要展示的捐赠者名称、留言、链接 (链接可以是您的博客、github、个人网站、公司产品等)，如果可以，请务必留下你的Github用户名。
 
 ### 爱发电捐赠
 
