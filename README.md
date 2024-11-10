@@ -24,6 +24,9 @@
 | 应用名称 | 应用地址 | 应用描述 |
 | :---: | :---: | :---: |
 | 薪资速算器 | <img src="https://wot-design-uni.cn/salary-calculator.jpg" width="200" height="200" /> | 一个帮你计算税后收入的计算器，好薪资算出来。 |
+| 阿里云新客活动 | https://www.aliyun.com/minisite/goods?userCode=t82n0xrj | 阿里云11月新客享20%补贴。 |
+| 无影云电脑 | https://www.aliyun.com/activity/wuying/dj?userCode=t82n0xrj | 云上畅玩，直面天命。 |
+
 
 ## 🌠 知识星球
 如果您实在是钱多的没地儿花，那么可以考虑加入[不如摸鱼去](https://t.zsxq.com/v8OYT)的知识星球，加入后你将什么也得不到，因为我没什么空写文章，不过每个月有几次免费的问答机会，当然能不能解决也得看我会不会。
