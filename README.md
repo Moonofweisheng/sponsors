@@ -15,7 +15,9 @@
 
 <p>
 <img src="https://wot-sponsors.pages.dev/weixinQrcode.jpg" width="200" height="200" style="margin-right:30px"/>
+<img src="https://wot-design-uni.cn/weixinQrcode.jpg" width="200" height="200"  style="margin-right:30px" />
 <img src="https://wot-design-uni.cn/alipayQrcode.jpg" width="200" height="200" />
+
 </p>
 
 ## 间接赞助
