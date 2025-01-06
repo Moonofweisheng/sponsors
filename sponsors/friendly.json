@@ -10,10 +10,10 @@
         "details": "Uni Helper 旨在增强 uni-app 系列产品的开发体验。",
         "link": "https://uni-helper.js.org/"
     }, {
-        "icon": "https://codercup.github.io/unibest-docs/logo.svg",
+        "icon": "https://unibest.tech/logo.svg",
         "title": "unibest",
         "details": "最好用的 unpapp 开发模，由 Vue3 + Ts + Vite4 + UnoCss + VSCode 构建，内置了许多常用的基本组件和基本功能，让你编写 uniapp 拥有 best 体验。",
-        "link": "https://codercup.github.io/unibest-docs/"
+        "link": "https://unibest.tech"
     }, {
         "icon": "https://www.flowerui.com/logo.png",
         "title": "Flower Library",
