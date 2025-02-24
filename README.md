@@ -26,6 +26,7 @@
 | :---: | :---: | :---: |
 | 薪资速算器 | <img src="https://wot-design-uni.cn/salary-calculator.jpg" width="200" height="200" /> | 一个帮你计算税后收入的计算器，好薪资算出来。 |
 | 微信小程序激励广告 | <img src="https://wot-design-uni.cn/wxqrcode/wx-reward-ad.png" width="200" height="200" /> | 看完一个微信小程序激励视频广告也是我对我的支持。 |
+| 调剂宝-考研调剂 | <img src="/sponsors/tiaojibao_qrcode.png" width="200" height="200" /> |注册VIP会员时填写我的福利码：uh3p，立享20元优惠。 |
 
 ## 🔥 友情链接
 如果你的产品希望成为[Wot Design Uni](https://wot-design-uni.cn)的友情链接，也欢迎提[PR](https://github.com/Moonofweisheng/sponsors/pulls)修改[friendly.json](https://github.com/Moonofweisheng/sponsors/blob/main/sponsors/friendly.json)，当然我们也希望[Wot Design Uni](https://wot-design-uni.cn)也可以在你的产品主页占据一席之地。
