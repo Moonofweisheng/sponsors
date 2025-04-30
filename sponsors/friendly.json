@@ -1,5 +1,10 @@
 {
     "links": [{
+        "icon": "https://dl.hydun.com/logo/logo2.png",
+        "title": "火毅盾",
+        "details": "火毅盾，专业的全球CDN加速服务，本站由火毅盾云安全提供安全防护及CDN加速服务。",
+        "link": "https://hydun.com"
+    },{
         "icon": "https://www.hongqiye.com/doc/mockm/icon/favicon.ico",
         "title": "mockm",
         "details": "前后端接口联调利器，可以快速生成 api 以及创造数据，开箱即用，便于部署。",
