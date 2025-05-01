@@ -20,7 +20,7 @@
         "details": "最好用的 unpapp 开发模，由 Vue3 + Ts + Vite4 + UnoCss + VSCode 构建，内置了许多常用的基本组件和基本功能，让你编写 uniapp 拥有 best 体验。",
         "link": "https://unibest.tech"
     }, {
-        "icon": "https://www.flowerui.com/logo.png",
+        "icon": "-",
         "title": "Flower Library",
         "details": "uni-app 多平台多版本兼容的轻量、简洁、高效、全面的移动端组件库",
         "link": "https://www.flowerui.com/"
