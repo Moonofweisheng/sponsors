@@ -59,6 +59,21 @@
             "name": "云打牌计分器",
             "description": "轻松记录分数。",
             "image": "/assets/cases/yundapaijifenqi.jpg"
+        },
+        {
+            "name": "一卡通",
+            "description": "政务服务小程序。",
+            "image": "/assets/cases/yikatong.jpg"
+        },
+        {
+            "name": "速点星自助洗车",
+            "description": "微信小程序",
+            "image": "/assets/cases/sudianxing_weixin.jpg"
+        },
+        {
+            "name": "速点星自助洗车",
+            "description": "支付宝小程序",
+            "image": "/assets/cases/sudianxing_alipay.jpg"
         }
     ]
 }
