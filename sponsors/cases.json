@@ -74,6 +74,11 @@
             "name": "速点星自助洗车",
             "description": "支付宝小程序",
             "image": "/assets/cases/sudianxing_alipay.jpg"
+        },
+        {
+            "name": "豆豆拼音点读",
+            "description": "小学生拼音学习小程序",
+            "image": "/assets/cases/doudoupinyindiandu.png"
         }
     ]
 }
