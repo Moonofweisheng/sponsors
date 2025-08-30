@@ -15,8 +15,14 @@
         {
             "icon": "https://unibest.tech/logo.svg",
             "title": "unibest",
-            "details": "最好用的 unpapp 开发模，由 Vue3 + Ts + Vite4 + UnoCss + VSCode 构建，内置了许多常用的基本组件和基本功能，让你编写 uniapp 拥有 best 体验。",
+            "details": "由 WotUI + Vite4 + UnoCss + VSCode 构建的 uniapp 开发模板，内置了许多常用的基本组件和基本功能，让你编写 uniapp 拥有 best 体验。",
             "link": "https://unibest.tech"
+        },
+        {
+            "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02MCA5Ny43NkM2MCA5Ny43NiA2MCAxODQuNzU2IDYwIDE5Ni4wMTRDNjAgMjA3LjI3MiA3NS41MDY1IDIzMC4yNTQgMTAxLjY5IDIyOS45OThDMTI3Ljg3MyAyMjkuNzQyIDE0Mi4xMDggMjA1LjczOSAxNDIuMTA4IDE5Ni4wMTRDMTQyLjEwOCAxODYuMjg4IDE0Mi4xMDggMTA4LjI1IDE0Mi4xMDggMTA4LjI1TDE3MC41NzkgODcuNDc3VjIyMS44MDhDMTcwLjU3OSAyMjEuODA4IDE3My4zNzYgMjI5Ljk5OCAxODIuMjczIDIyOS45OThDMTkxLjE3IDIyOS45OTggMTk2IDIyMS44MDggMTk2IDIyMS44MDhWMzRMMTI5LjkwNyA4My44OTRMNjAgMzRWNjQuMTkzTDExOC4yMTMgMTA4LjI1VjE4NS42MDRDMTE4LjIxMyAxODUuNjA0IDExOC4yMTMgMjAwLjE4OSAxMDEuNjkgMjAxLjIxMkM4NS4xNjY0IDIwMi4yMzYgODYuOTQ1OCAxODUuNjA0IDg2Ljk0NTggMTg1LjYwNFYxMTcuMjA2TDYwIDk3Ljc2WiIgc3Ryb2tlPSJ1cmwoI3BhaW50MF9saW5lYXJfMTJfMTgpIiBzdHJva2Utd2lkdGg9IjE0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMTJfMTgiIHgxPSI2MCIgeTE9IjIzMCIgeDI9IjE5NiIgeTI9IjM0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiMzQjgyRjYiLz4KPHN0b3Agb2Zmc2V0PSIwLjUiIHN0b3AtY29sb3I9IiMyNTYzRUIiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA1QkVBIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cg==",
+            "title": "skiyee/ui",
+            "details": "一个由原子化CSS驱动、符合直觉设计、高度定制化、面向AI时代的移动端 UI 库，助力开发者打造独特且差异化的移动端应用程序。",
+            "link": "https://skiyee-ui.netlify.app/"
         },
         {
             "icon": "https://www.hongqiye.com/doc/mockm/icon/favicon.ico",
