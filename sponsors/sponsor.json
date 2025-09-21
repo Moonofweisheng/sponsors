@@ -1,21 +1,5 @@
 {
     "data": [
-        // {
-        //     "tier": "Platinum",
-        //     "size": "large",
-        //     "items": [
-        //         {
-        //             "name": "wot-ui",
-        //             "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
-        //             "url": "https://wot-ui.cn"
-        //         },
-        //         {
-        //             "name": "wot-ui",
-        //             "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
-        //             "url": "https://wot-ui.cn"
-        //         }
-        //     ]
-        // },
         {
             "tier": "Gold",
             "size": "medium",
@@ -36,11 +20,34 @@
                     "url": "https://wot-ui.cn"
                 }
             ]
+        }
+    ],
+    "demo": [
+        {
+            "tier": "Platinum",
+            "size": "large",
+            "items": [
+                {
+                    "name": "wot-ui",
+                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
+                    "url": "https://wot-ui.cn"
+                },
+                {
+                    "name": "wot-ui",
+                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
+                    "url": "https://wot-ui.cn"
+                }
+            ]
         },
         {
-            "tier": "Silver",
-            "size": "small",
+            "tier": "Gold",
+            "size": "medium",
             "items": [
+                {
+                    "name": "wot-ui",
+                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
+                    "url": "https://wot-ui.cn"
+                },
                 {
                     "name": "wot-ui",
                     "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
