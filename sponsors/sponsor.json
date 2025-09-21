@@ -1,26 +1,5 @@
 {
     "data": [
-        {
-            "tier": "Gold",
-            "size": "medium",
-            "items": [
-                {
-                    "name": "wot-ui",
-                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
-                    "url": "https://wot-ui.cn"
-                },
-                {
-                    "name": "wot-ui",
-                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
-                    "url": "https://wot-ui.cn"
-                },
-                {
-                    "name": "wot-ui",
-                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/wot-ui.png",
-                    "url": "https://wot-ui.cn"
-                }
-            ]
-        }
     ],
     "demo": [
         {
