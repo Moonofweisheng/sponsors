@@ -25,6 +25,12 @@
             "link": "https://skiyee-ui.netlify.app/"
         },
         {
+          "icon": "https://oss.xiaohe.ink/images/uni-echarts.png",
+          "title": "Uni ECharts",
+          "details": "适用于 uni-app 的 Apache ECharts 组件",
+          "link": "https://uni-echarts.xiaohe.ink"
+        },
+        {
             "icon": "https://www.hongqiye.com/doc/mockm/icon/favicon.ico",
             "title": "mockm",
             "details": "前后端接口联调利器，可以快速生成 api 以及创造数据，开箱即用，便于部署。",
