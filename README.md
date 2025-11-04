@@ -1,3 +1,12 @@
+<!--
+ * @Author: weisheng
+ * @Date: 2025-03-24 10:33:21
+ * @LastEditTime: 2025-11-04 17:44:20
+ * @LastEditors: weisheng
+ * @Description: 
+ * @FilePath: /sponsors/README.md
+ * 记得注释
+-->
 # <p align="center">Sponsors 🥂🥂🥂</p>
 
 
@@ -14,7 +23,6 @@
 ### 扫码捐赠
 
 <p>
-<img src="https://wot-sponsors.pages.dev/weixinQrcode.jpg" width="200" height="200" style="margin-right:30px"/>
 <img src="https://wot-ui.cn/weixinQrcode.jpg" width="200" height="200"  style="margin-right:30px" />
 <img src="https://wot-ui.cn/alipayQrcode.jpg" width="200" height="200" />
 
