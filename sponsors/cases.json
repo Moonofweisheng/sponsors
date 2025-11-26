@@ -1,6 +1,11 @@
 {
     "data": [
         {
+            "name": "鱼哥菜谱",
+            "description": "像老乡鸡那样做饭小程序，全流程由 AI 开发，数据来自于CookLikeHOC。",
+            "image": "/assets/cases/CookLikeHoc.jpg"
+        },
+        {
             "name": "调剂宝",
             "description": "一个专业的调剂助手，帮助你找到最适合自己的调剂方案。",
             "image": "/assets/cases/tiaojibao.jpg"
@@ -24,11 +29,6 @@
             "name": "蜗趣记账",
             "description": "",
             "image": "/assets/cases/woqujizhang.jpg"
-        },
-        {
-            "name": "薪资速算器",
-            "description": "",
-            "image": "/assets/cases/salary-calculator.jpg"
         },
         {
             "name": "随享小栈",
