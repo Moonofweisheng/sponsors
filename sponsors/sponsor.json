@@ -1,16 +1,5 @@
 {
     "data": [
-        {
-            "tier": "Platinum",
-            "size": "large",
-            "items": [
-                {
-                    "name": "开源电商系统",
-                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/hx-2025.png",
-                    "url": "https://gitee.com/lijiaxing_boy/huanxing-mall"
-                }
-            ]
-        }
     ],
     "demo": [
         {
