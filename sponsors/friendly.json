@@ -31,13 +31,13 @@
           "link": "https://uni-echarts.xiaohe.ink"
         },
         {
-            "icon": "https://www.hongqiye.com/doc/mockm/icon/favicon.ico",
+            "icon": "☕",
             "title": "mockm",
             "details": "前后端接口联调利器，可以快速生成 api 以及创造数据，开箱即用，便于部署。",
             "link": "https://github.com/wll8/mockm"
         },
         {
-            "icon": "https://ucs.cloudsimpler.com/logo.svg",
+            "icon": "☕",
             "title": "UCS Design",
             "details": "多平台快速开发 uni 系列生态链 uni-app / uni-app-x 多平台 vue3 版本 uts 编程语言开发的轻量高效、简洁全面的组件库",
             "link": "https://ucs.cloudsimpler.com/"
