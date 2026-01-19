@@ -79,6 +79,31 @@
             "name": "豆豆拼音点读",
             "description": "小学生拼音学习小程序",
             "image": "/assets/cases/doudoupinyindiandu.png"
+        },
+        {
+            "name": "传奇兑换宝",
+            "description": "传奇界资讯与论坛社区",
+            "image": "/assets/cases/chuanqiduihuanbao.png"
+        },
+        {
+            "name": "优途快达施工端",
+            "description": "基坑工地施工管理APP",
+            "image": "/assets/cases/youtukuaida.png"
+        },
+        {
+            "name": "免费证件照生成",
+            "description": "换底色、生成排版照，可直接打印，永久免费",
+            "image": "/assets/cases/mianfeizhengjianzhaoshengcheng.png"
+        },
+        {
+            "name": "推米ya",
+            "description": "电商创业平台",
+            "image": "/assets/cases/tuimiya.png"
+        },
+        {
+            "name": "开源技术小栈",
+            "description": "技术分享小程序",
+            "image": "/assets/cases/kaiyuanjishuxiaozhan.png"
         }
     ]
 }
