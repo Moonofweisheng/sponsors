@@ -64,6 +64,18 @@
         "求职",
         "广州"
       ]
+    },
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/50100966?v=4",
+      "name": "二狗",
+      "title": "AI善后工程师",
+      "desc": "wot-ui 成员，善后AI产物",
+      "github": "https://github.com/810505339",
+      "tags": [
+        "修bug专家",
+        "善后大师",
+        "问题终结者"
+      ]
     }
   ]
 }
