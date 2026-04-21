@@ -1,5 +1,9 @@
 {
     "data": [
-
+      {
+            "title": "Wot UI v2 已开放体验，如果您想查看 2.x 的文档，请点击查看按钮",
+            "action": "查看 v2 文档",
+            "link": "https://wot-ui.cn/"
+        }
     ]
 }
