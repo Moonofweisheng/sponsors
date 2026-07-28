@@ -1,9 +1,9 @@
 {
     "data": [
-      {
-            "title": "您正在浏览 Wot UI 2.x 的文档，如果您想查看 1.x 的文档，请点击查看按钮",
-            "action": "查看 1.x 文档",
-            "link": "https://v1.wot-ui.cn/"
+        {
+            "title": "使用 @wot-ui/cli，为 AI 编程助手接入 Wot UI 2.x 组件知识、示例与 API",
+            "action": "了解 @wot-ui/cli",
+            "link": "https://cli.wot-ui.cn/"
         }
     ]
 }
