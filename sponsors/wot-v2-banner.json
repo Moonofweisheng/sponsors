@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "title": "使用 @wot-ui/cli，为 AI 编程助手接入 Wot UI 2.x 组件知识、示例与 API",
+            "title": "@wot-ui/cli，让你的 AI 真正读懂 wot-ui",
             "action": "了解 @wot-ui/cli",
             "link": "https://cli.wot-ui.cn/"
         }
