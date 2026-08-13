@@ -10,6 +10,17 @@
                     "url": "https://license.ruoyi.plus/flm/s/100003"
                 }
             ]
+        },
+    {
+            "tier": "Gold",
+            "size": "medium",
+            "items": [
+                {
+                    "name": "TorchAI",
+                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/TorchAI.png",
+                    "url": "https://torchai.ai/"
+                }
+            ]
         }
     ],
     "demo": [
